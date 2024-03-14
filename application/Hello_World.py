@@ -1,5 +1,6 @@
 import streamlit as st
 
-title = st.title('Hello World')
 
+st.image('images/dec1nobackground.png')
+title = st.title('Hello World')
 print(title)
